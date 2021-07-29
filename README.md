@@ -30,8 +30,8 @@ Decentralized cryptocurrency trading platform with portfolio, accounting / tax r
 Due to limitations of [Golang plugins](https://golang.org/pkg/plugin/), this software requires a Linux or Mac operating system to run natively. [Debian](https://www.debian.org/) is a great choice. [Docker](https://www.docker.com/) support is included for Windows users.
 
 
-    git clone git@github.com:jeremyhahn/tradebot.git $GOPATH/src/github.com/jeremyhahn/tradebot
-    cd $GOPATH/src/github.com/jeremyhahn/tradebot
+    git clone git@github.com:jeremyhahn/tradebot.git $GOPATH/src/https://github.com/wattson-coder/tradebot
+    cd $GOPATH/src/https://github.com/wattson-coder/tradebot
     make deps
     make
     make test
